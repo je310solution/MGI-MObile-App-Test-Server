@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924805590192",
+    "project_id": "maxs-group-inc",
+    "storage_bucket": "maxs-group-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924805590192:android:649aa55aca74fd616c9f75",
+        "android_client_info": {
+          "package_name": "com.je310solution.mapa_bea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924805590192-3anra8ma3moanj3s12ji63ddj39glpg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.je310solution.mapa_bea",
+            "certificate_hash": "7c70e11b5f6f55f3b13189c451dbf9205c7c4639"
+          }
+        },
+        {
+          "client_id": "924805590192-6e8fvdp5e8uql85lblitgfofgn3r1s3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5VxET_DhVu_0u6Kh5c61R8hGKxbsI9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924805590192-6e8fvdp5e8uql85lblitgfofgn3r1s3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
