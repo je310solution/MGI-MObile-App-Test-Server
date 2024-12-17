@@ -36,14 +36,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   rxdart: any
   shared_preferences: any
-  page_transition: ^2.0.5
-
-#  flutter_sms: ^2.3.3
-#  telephony: ^0.2.0
-  telephony:
-    git:
-      url: https://github.com/suhardik/s_telephony.git
-      ref: develop
 
 dev_dependencies:
   flutter_test:
